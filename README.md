@@ -58,39 +58,12 @@ I'm a **Full Stack Web Developer** and **MCA Student** passionate about building
 - Designed responsive UI with dynamic data visualization
 - Implemented secure contact forms and newsletter subscriptions
 
-## 🎯 Featured Projects
-
-### 🔥 Real-Time Chat Application
-*Django, WebSockets, MySQL, Bootstrap, JavaScript*
-- Real-time messaging for **100+ concurrent users**
-- JWT-based authentication with role-based access control
-- Optimized queries reducing latency by **40%**
-
-### 🛒 E-Commerce Platform
-*Django, MySQL, Bootstrap, JavaScript*
-- Full-featured platform with product catalog and secure payments
-- RESTful APIs for cart management and order processing
-- Comprehensive error handling and validation
-
-### 📊 Client Management System
-*PHP, MySQL, Bootstrap, JavaScript*
-- CMS for tracking client interactions with intuitive dashboard
-- Data visualization using Chart.js for business intelligence
-
 ## 🏆 Achievements
 
 ✅ Successfully delivered **5+ production-ready applications** with 99% uptime  
 ✅ Strong problem-solving through academic projects and internships  
 ✅ Active open-source contributor  
 ✅ Self-learner with hands-on experience in modern technologies  
-
-## 📚 Education
-
-**Master of Computer Applications (MCA)**  
-Netaji Subhas University, Jamshedpur | *July 2024 – July 2026*
-
-**Bachelor of Computer Applications (BCA)** - 75%  
-Mrs. KMPM Vocational College, Jamshedpur | *November 2020 – November 2023*
 
 ## 🤝 Let's Connect!
 

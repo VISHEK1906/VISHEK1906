@@ -100,6 +100,14 @@ Netaji Subhas University, Jamshedpur | *July 2024 – July 2026*
 **Bachelor of Computer Applications (BCA)** - 75%  
 Mrs. KMPM Vocational College, Jamshedpur | *November 2020 – November 2023*
 
+## 🤝 Let's Connect!
 
+I'm always interested in collaborating on exciting projects and exploring new opportunities. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishek-kumar-vk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHEK1906)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvishek1906@gmail.com)
+
+---
 
 ⭐️ From [VISHEK1906](https://github.com/VISHEK1906)

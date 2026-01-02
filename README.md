@@ -77,14 +77,6 @@ I'm a **Full Stack Web Developer** and **MCA Student** passionate about building
 - CMS for tracking client interactions with intuitive dashboard
 - Data visualization using Chart.js for business intelligence
 
-## 📈 GitHub Stats
-
-![Vishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHEK1906&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHEK1906&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VISHEK1906&theme=radical)
-
 ## 🏆 Achievements
 
 ✅ Successfully delivered **5+ production-ready applications** with 99% uptime  

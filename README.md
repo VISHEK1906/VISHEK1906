@@ -43,21 +43,6 @@ I'm a **Full Stack Web Developer** and **MCA Student** passionate about building
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
 
-## 💼 Professional Experience
-
-### Full Stack Web Developer | Nikusoft Pvt. Ltd.
-*June 2024 – August 2025 | Jamshedpur, India*
-- Engineered scalable backend solutions serving **10,000+ users** with optimized API response times
-- Developed bulk email system processing **50K+ emails** with real-time delivery tracking
-- Implemented database replication scripts ensuring **99.9% data consistency**
-- Collaborated using Agile methodologies to deliver client-customized applications
-
-### Web Development Intern | Paultech Pvt. Ltd.
-*September 2025 – November 2025 | Jamshedpur, India*
-- Built **Weather Hive**, a full-stack weather reporting application with real-time API integration
-- Designed responsive UI with dynamic data visualization
-- Implemented secure contact forms and newsletter subscriptions
-
 ## 🏆 Achievements
 
 ✅ Successfully delivered **5+ production-ready applications** with 99% uptime  
